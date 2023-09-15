@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Soous/Documents/Vivado/display7/display7.srcs/sources_1/new/driver_bcd7.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'driver_bcd7'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Soous/Documents/Vivado/display7/display7.srcs/sources_1/new/multiplexador2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'multiplexador2'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Soous/Documents/Vivado/display7/display7.srcs/sources_1/new/BCD_compe.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'BCD_compe'
